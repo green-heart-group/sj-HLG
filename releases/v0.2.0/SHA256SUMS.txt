@@ -1,0 +1,2 @@
+a6d09eb28ef814a395980049ceec05d474e50dc3974cd3afbbc4fb6161cf25e2  HLG_Demo_0.2.0_Windows_x64.zip
+22a2b950e6ce3f5ac068c1d60133b01d0889ea34e502eeac0a179448b92c1736  HLG_Source_0.2.0.zip

@@ -1,0 +1,44 @@
+﻿component,declared_license,upstream_repository,upstream_authors
+adler2-2.0.1,0BSD OR MIT OR Apache-2.0,https://github.com/oyvindln/adler2,Jonas Schievink <jonasschievink@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>
+allocator-api2-0.2.21,MIT OR Apache-2.0,https://github.com/zakarumych/allocator-api2,Zakarum <zaq.dev@icloud.com>
+autocfg-1.5.1,Apache-2.0 OR MIT,https://github.com/cuviper/autocfg,Josh Stone <cuviper@gmail.com>
+bitflags-1.3.2,MIT/Apache-2.0,https://github.com/bitflags/bitflags,The Rust Project Developers
+bytemuck-1.25.2,Zlib OR Apache-2.0 OR MIT,https://github.com/Lokathor/bytemuck,Lokathor <zefria@gmail.com>
+byteorder-1.5.0,Unlicense OR MIT,https://github.com/BurntSushi/byteorder,Andrew Gallant <jamslam@gmail.com>
+cfg-if-1.0.5,MIT OR Apache-2.0,https://github.com/rust-lang/cfg-if,Alex Crichton <alex@alexcrichton.com>
+color_quant-1.1.0,MIT,https://github.com/image-rs/color_quant.git,nwin <nwin@users.noreply.github.com>
+core_maths-0.1.1,MIT,https://github.com/robertbastian/core_maths,Robert Bastian <me@robertbastian.dev
+crc32fast-1.5.2,MIT OR Apache-2.0,https://github.com/srijs/rust-crc32fast,Sam Rijs <srijs@airpost.net>; Alex Crichton <alex@alexcrichton.com>
+equivalent-1.0.3,Apache-2.0 OR MIT,https://github.com/indexmap-rs/equivalent,
+fdeflate-0.3.7,MIT OR Apache-2.0,https://github.com/image-rs/fdeflate,The image-rs Developers
+flate2-1.1.10,MIT OR Apache-2.0,https://github.com/rust-lang/flate2-rs,Alex Crichton <alex@alexcrichton.com>; Josh Triplett <josh@joshtriplett.org>
+foldhash-0.1.5,Zlib,https://github.com/orlp/foldhash,Orson Peters <orsonpeters@gmail.com>
+fontdue-0.9.5,MIT OR Apache-2.0 OR Zlib,https://github.com/mooman219/fontdue,Joe Cumbo <mooman219@gmail.com>
+glam-0.27.0,MIT OR Apache-2.0,https://github.com/bitshifter/glam-rs,Cameron Hart <cameron.hart@gmail.com>
+hashbrown-0.15.5,MIT OR Apache-2.0,https://github.com/rust-lang/hashbrown,Amanieu d'Antras <amanieu@gmail.com>
+image-0.24.9,MIT OR Apache-2.0,https://github.com/image-rs/image,The image-rs Developers
+itoa-1.0.18,MIT OR Apache-2.0,https://github.com/dtolnay/itoa,David Tolnay <dtolnay@gmail.com>
+libm-0.2.16,MIT,https://github.com/rust-lang/compiler-builtins,Alex Crichton <alex@alexcrichton.com>; Amanieu d'Antras <amanieu@gmail.com>; Jorge Aparicio <japaricious@gmail.com>; Trevor Gross <tg@trevorgross.com>
+macroquad-0.4.16,MIT OR Apache-2.0,https://github.com/not-fl3/macroquad,not-fl3 <not.fl3@gmail.com>
+macroquad_macro-0.1.8,MIT/Apache-2.0,https://github.com/not-fl3/macroquad,not-fl3 <not.fl3@gmail.com>
+memchr-2.8.3,Unlicense OR MIT,https://github.com/BurntSushi/memchr,Andrew Gallant <jamslam@gmail.com>; bluss
+miniquad-0.4.11,MIT OR Apache-2.0,https://github.com/not-fl3/miniquad,not-fl3 <not.fl3@gmail.com>
+miniz_oxide-0.8.9,MIT OR Zlib OR Apache-2.0,https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide,Frommi <daniil.liferenko@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>; Rich Geldreich richgel99@gmail.com
+miniz_oxide-0.9.1,MIT OR Zlib OR Apache-2.0,https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide,Frommi <daniil.liferenko@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>; Rich Geldreich richgel99@gmail.com
+num-traits-0.2.19,MIT OR Apache-2.0,https://github.com/rust-num/num-traits,The Rust Project Developers
+png-0.17.16,MIT OR Apache-2.0,https://github.com/image-rs/image-png,The image-rs Developers
+proc-macro2-1.0.107,MIT OR Apache-2.0,https://github.com/dtolnay/proc-macro2,David Tolnay <dtolnay@gmail.com>; Alex Crichton <alex@alexcrichton.com>
+quad-rand-0.2.3,MIT,https://github.com/not-fl3/quad-rand,not-fl3 <not.fl3@gmail.com>
+quote-1.0.47,MIT OR Apache-2.0,https://github.com/dtolnay/quote,David Tolnay <dtolnay@gmail.com>
+serde-1.0.229,MIT OR Apache-2.0,https://github.com/serde-rs/serde,Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+serde_core-1.0.229,MIT OR Apache-2.0,https://github.com/serde-rs/serde,Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+serde_derive-1.0.229,MIT OR Apache-2.0,https://github.com/serde-rs/serde,Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+serde_json-1.0.154,MIT OR Apache-2.0,https://github.com/serde-rs/json,
+simd-adler32-0.3.10,MIT,https://github.com/mcountryman/simd-adler32,Marvin Countryman <me@maar.vin>
+syn-3.0.9,MIT OR Apache-2.0,https://github.com/dtolnay/syn,David Tolnay <dtolnay@gmail.com>
+ttf-parser-0.25.1,MIT OR Apache-2.0,https://github.com/harfbuzz/ttf-parser,Caleb Maclennan <caleb@alerque.com>; Laurenz Stampfl <laurenz.stampfl@gmail.com>; Yevhenii Reizner <razrfalcon@gmail.com>; خالد حسني (Khaled Hosny) <khaled@aliftype.com>
+unicode-ident-1.0.27,(MIT OR Apache-2.0) AND Unicode-3.0,https://github.com/dtolnay/unicode-ident,David Tolnay <dtolnay@gmail.com>
+winapi-0.3.9,MIT/Apache-2.0,https://github.com/retep998/winapi-rs,Peter Atashian <retep998@gmail.com>
+winapi-x86_64-pc-windows-gnu-0.4.0,MIT/Apache-2.0,https://github.com/retep998/winapi-rs,Peter Atashian <retep998@gmail.com>
+zlib-rs-0.6.8,Zlib,https://github.com/trifectatechfoundation/zlib-rs,
+zmij-1.0.23,MIT,https://github.com/dtolnay/zmij,David Tolnay <dtolnay@gmail.com>

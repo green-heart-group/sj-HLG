@@ -1,0 +1,17 @@
+{
+  "machine_hex": "0x8664",
+  "dlls": [
+    "GDI32.dll",
+    "IMM32.dll",
+    "KERNEL32.dll",
+    "KERNEL32.dll",
+    "SHELL32.dll",
+    "USER32.dll",
+    "WINMM.dll",
+    "api-ms-win-core-synch-l1-2-0.dll",
+    "api-ms-win-shcore-scaling-l1-1-1.dll",
+    "bcryptprimitives.dll",
+    "msvcrt.dll",
+    "ntdll.dll"
+  ]
+}

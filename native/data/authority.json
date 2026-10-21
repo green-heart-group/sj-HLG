@@ -1,0 +1,42 @@
+{
+  "sources": {
+    "理工恐怖故事.txt": {
+      "sha256": "9c60ebbd3c5ab2bfe5b3ed9edae2c70d7eca5a52ebc968562240ce4e3e84a235",
+      "role": "authoritative"
+    },
+    "理恐MC-策划案（修订版） 2022.9.29.docx": {
+      "sha256": "be754e29119bcd3d7a3bc68585d0f354242180c8584e95ff5e8e138a2841c7ce",
+      "role": "authoritative"
+    },
+    "微信图片_2026-10-20_121834_468.jpg": {
+      "sha256": "10b1f6b6c0e31432f5bb96e0c80b09b68f9a8a098a67ce146d04931a595abc32",
+      "role": "authoritative"
+    },
+    "京工文集.docx": {
+      "sha256": "831c78c6b782d5b3a5d6c8cef8d83869fa410f57b2b305aa73322a7ff088b4fc",
+      "role": "style_reference_only"
+    }
+  },
+  "user_authorizations": {
+    "U01": "Rust 原生 Windows EXE，可分发演示版和攻略",
+    "U02": "表里世界循环、现代中国中学视觉、动画头像与坏点侵蚀",
+    "U03": "每次行动即时显示发生了什么、数值变化与下一步关注",
+    "U04": "参考两部全文重写规则怪谈文字；成就原文保留",
+    "U05": "背包图标及主动/装备/携带条件用途；参考明日方舟沉沦者的黑流树海界面",
+    "U06": "探索和战斗卡牌、每个行动都有过场动画",
+    "U07": "表世界依据 TXT 坐标、地名和手绘连线",
+    "U08": "卡牌可以使用所有所得道具，依据策划推理用途",
+    "U09": "初始多维车卡、成长、属性+卡牌+掷骰驱动探索/战斗/移动",
+    "U10": "实验室改为1/2/3/4层；生物办公室改为(2,3,3)，其余按TXT和手绘连线",
+    "U11": "建立策划案对照gate；未实现可以，未授权偏离不可以",
+    "U12": "视觉的唯一硬要求为21世纪中国高中；先前像素或Doom参考不再作为必须遵守的限制。",
+    "U13": "里世界必须通过地图反复变化体现肉鸽；允许里世界地图非常大。"
+  },
+  "precedence": [
+    "explicit user authorization / U10 coordinate correction",
+    "TXT map and movement contract",
+    "MC plan story, objects, achievements and ending logic",
+    "hand-drawn map connections",
+    "HTML demo as historical reference only"
+  ]
+}

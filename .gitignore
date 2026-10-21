@@ -1,0 +1,5 @@
+native/target/
+native/work/
+*.pdb
+.DS_Store
+Thumbs.db

@@ -1,0 +1,118 @@
+﻿a,b,worlds,source,rationale
+喷泉@fountain,未知地点？@txt_84_1,3,TXT,TXT:84 连字符或楼层范围
+化学储藏间@storage,物理实验室@txt_89_1,3,TXT,TXT:89 连字符或楼层范围
+物理实验室@txt_89_1,物理实验室@txt_89_2,3,TXT,TXT:89 连字符或楼层范围
+物理实验室@txt_89_2,生物实验室@txt_89_3,3,TXT,TXT:89 连字符或楼层范围
+南平房@txt_95_0,自行车棚@txt_95_1,3,TXT,TXT:95 连字符或楼层范围
+南走廊@txt_98_0,南走廊@txt_98_1,3,TXT,TXT 楼梯间 1→2
+南走廊@txt_98_1,南走廊@txt_98_2,3,TXT,TXT 楼梯间 2→3
+南走廊@txt_98_2,南走廊@txt_98_3,3,TXT,TXT 楼梯间 3→4
+北走廊@txt_104_0,北走廊@txt_104_1,3,TXT,TXT 楼梯间 1→2
+北走廊@txt_104_1,北走廊@txt_104_2,3,TXT,TXT 楼梯间 2→3
+北走廊@txt_104_2,北走廊@txt_104_3,3,TXT,TXT 楼梯间 3→4
+廊下走道(南)@txt_106_0,复制长廊@copy_corridor,3,TXT,TXT:106 连字符或楼层范围
+综合楼大厅@hall,校长办公室@principal,3,TXT,TXT:109 连字符或楼层范围
+廊下走道(北)@txt_111_0,厦外雅居@yawwai,3,TXT,TXT:111 连字符或楼层范围
+厦外雅居@yawwai,实验楼廊道@lab_corridor,3,TXT,TXT:111 连字符或楼层范围
+化学实验室@chem_lab,物理实验室@physics_lab,3,TXT,TXT:114 连字符或楼层范围
+物理实验室@physics_lab,电学实验室@electric_lab,3,TXT,TXT:114 连字符或楼层范围
+电学实验室@electric_lab,生物实验室@bio_lab,3,TXT,TXT:114 连字符或楼层范围
+校史馆@txt_117_0,校史馆@txt_117_1,3,TXT,TXT:117 连字符或楼层范围
+学生公司@company,化学办公室@chem_office,3,TXT,TXT:121 连字符或楼层范围
+化学办公室@chem_office,生物办公室@bio_office,3,TXT,TXT:121 连字符或楼层范围
+生物办公室@bio_office,教师卫生间@teacher_wc,3,TXT,TXT:121 连字符或楼层范围
+语文办公室@chinese_office,英语办公室@txt_123_1,3,TXT,TXT:123 连字符或楼层范围
+英语办公室@txt_123_1,物理办公室@physics_office,3,TXT,TXT:123 连字符或楼层范围
+物理办公室@physics_office,地理办公室@geo_office,3,TXT,TXT:123 连字符或楼层范围
+综合楼电梯@txt_125_0,综合楼电梯@txt_125_1,3,TXT,TXT:125 连字符或楼层范围
+综合楼电梯@txt_125_1,综合楼电梯@txt_125_2,3,TXT,TXT:125 连字符或楼层范围
+综合楼电梯@txt_125_2,综合楼电梯@txt_125_3,3,TXT,TXT:125 连字符或楼层范围
+综合楼电梯@txt_125_3,综合楼电梯@txt_125_4,3,TXT,TXT:125 连字符或楼层范围
+小别墅@txt_127_0,小别墅@txt_127_1,3,TXT,TXT:127 连字符或楼层范围
+小园林@garden,假山地牢@dungeon,3,TXT,TXT:134 连字符或楼层范围
+小图书馆@library,办公室?@txt_136_1,3,TXT,TXT:136 连字符或楼层范围
+办公室?@txt_136_1,办公室?@txt_136_2,3,TXT,TXT:136 连字符或楼层范围
+办公室?@txt_136_2,办公室?@txt_136_3,3,TXT,TXT:136 连字符或楼层范围
+办公室?@txt_136_3,悲鸿画轩@txt_136_4,3,TXT,TXT:136 连字符或楼层范围
+礼堂@auditorium,排练间@rehearsal,3,TXT,TXT:138 连字符或楼层范围
+学生食堂@canteen,教师食堂@txt_141_1,3,TXT,TXT:141 连字符或楼层范围
+传达室@reception,校门口@gate,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+传达室@reception,未知地点？@txt_82_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校门口@gate,金帆乐团@jinfan,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校门口@gate,喷泉@fountain,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+金帆乐团@jinfan,未知地点？@txt_87_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+钟楼柜群@lockers,钟楼@clock,3,SKETCH,压缩包手绘示意的连线
+钟楼柜群@lockers,天井@txt_101_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+钟楼@clock,未知地点？@txt_82_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+钟楼@clock,北走廊@txt_104_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+未知地点？@txt_82_0,喷泉@fountain,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+未知地点？@txt_82_0,廊下走道(南)@txt_106_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+喷泉@fountain,未知地点？@txt_87_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+喷泉@fountain,综合楼大厅@hall,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+未知地点？@txt_87_0,化学储藏间@storage,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+未知地点？@txt_87_0,廊下走道(北)@txt_111_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+化学储藏间@storage,校医务室@clinic,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+化学储藏间@storage,化学实验室@chem_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+物理实验室@txt_89_1,物理实验室@physics_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+物理实验室@txt_89_2,电学实验室@electric_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+生物实验室@txt_89_3,生物实验室@bio_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校医务室@clinic,校史馆@txt_117_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+南平房@txt_95_0,南走廊@txt_98_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+自行车棚@txt_95_1,南走廊@txt_98_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+南走廊@txt_98_0,天井@txt_101_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+南走廊@txt_98_3,高三一班@classroom,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+天井@txt_101_0,北走廊@txt_104_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+天井@txt_101_0,学生公司@company,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_0,廊下走道(南)@txt_106_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_0,语文办公室@chinese_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_1,英语办公室@txt_123_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_2,复制长廊@copy_corridor,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_2,物理办公室@physics_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+北走廊@txt_104_3,地理办公室@geo_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+廊下走道(南)@txt_106_0,综合楼大厅@hall,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+综合楼大厅@hall,廊下走道(北)@txt_111_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+综合楼大厅@hall,综合楼电梯@txt_125_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校长办公室@principal,厦外雅居@yawwai,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校长办公室@principal,综合楼电梯@txt_125_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+廊下走道(北)@txt_111_0,化学实验室@chem_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+廊下走道(北)@txt_111_0,小别墅@txt_127_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+厦外雅居@yawwai,物理实验室@physics_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+厦外雅居@yawwai,小别墅@txt_127_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+实验楼廊道@lab_corridor,电学实验室@electric_lab,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+化学实验室@chem_lab,校史馆@txt_117_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+化学实验室@chem_lab,乒乓球台@txt_129_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+物理实验室@physics_lab,校史馆@txt_117_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+校史馆@txt_117_0,操场@txt_131_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+高三一班@classroom,教师卫生间@teacher_wc,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+学生公司@company,语文办公室@chinese_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+学生公司@company,小园林@garden,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+化学办公室@chem_office,物理办公室@physics_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+生物办公室@bio_office,物理办公室@physics_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+教师卫生间@teacher_wc,地理办公室@geo_office,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+语文办公室@chinese_office,小图书馆@library,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+英语办公室@txt_123_1,办公室?@txt_136_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+物理办公室@physics_office,办公室?@txt_136_2,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+地理办公室@geo_office,办公室?@txt_136_3,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+综合楼电梯@txt_125_0,小别墅@txt_127_0,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+综合楼电梯@txt_125_1,小别墅@txt_127_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+小别墅@txt_127_0,乒乓球台@txt_129_0,3,SKETCH,压缩包手绘示意的连线
+乒乓球台@txt_129_0,操场@txt_131_0,3,SKETCH,压缩包手绘示意的连线
+小园林@garden,小图书馆@library,3,SKETCH,压缩包手绘示意的连线
+小图书馆@library,礼堂@auditorium,3,SKETCH,压缩包手绘示意的连线
+小图书馆@library,学生食堂@canteen,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+办公室?@txt_136_1,教师食堂@txt_141_1,3,TXT_GRID,同层坐标正交相邻；沿用原 HTML 对 TXT 的解释
+南走廊@txt_98_0,学生公司@company,3,SKETCH,压缩包手绘示意的连线
+北走廊@txt_104_0,学生公司@company,3,SKETCH,压缩包手绘示意的连线
+北走廊@txt_104_0,小图书馆@library,3,SKETCH,压缩包手绘示意的连线
+小别墅@txt_127_0,礼堂@auditorium,3,SKETCH,压缩包手绘示意的连线
+金帆乐团@jinfan,喷泉@fountain,3,SKETCH,压缩包手绘示意的连线
+化学实验室@chem_lab,化学办公间@chem_inner,3,TXT,TXT 明示化学实验室内间
+复制长廊@copy_corridor,课程主任办公室@director,2,MC,MC:59-64 原地点内景；U02 表里层转换
+生物实验室@bio_lab,标本馆@specimen,2,MC,MC:65-73 原地点内景；U02 表里层转换
+综合楼电梯@txt_125_4,炼功房@training,2,MC,MC:112-124 原地点内景；U02 表里层转换
+化学办公间@chem_inner,皂化池@saponify,2,MC,MC:426-445 原地点内景；U02 表里层转换
+综合楼大厅@hall,豢养区@captive,2,MC,MC:186-194 原地点内景；U02 表里层转换
+操场@txt_131_0,旷古墟渊@abyss,2,MC,MC:264-269 原地点内景；U02 表里层转换
+综合楼大厅@hall,综合楼负一层@basement,2,MC,"MC:189,275 原地点内景；U02 表里层转换"
+排练间@rehearsal,练武台小屋@martial,2,MC,MC:275 原地点内景；U02 表里层转换
+炼功房@training,飨魂祭坛@altar,2,MC,MC:270-278 原地点内景；U02 表里层转换

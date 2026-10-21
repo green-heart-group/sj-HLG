@@ -1,0 +1,74 @@
+[
+  {
+    "id": "G01",
+    "requirement": "原始来源指纹",
+    "authority": "TXT/MC/手绘",
+    "evidence": "source_hashes"
+  },
+  {
+    "id": "G02",
+    "requirement": "表世界坐标与连接",
+    "authority": "U07/U10",
+    "evidence": "map_source"
+  },
+  {
+    "id": "G03",
+    "requirement": "成就文字逐字保留",
+    "authority": "U04/U05",
+    "evidence": "achievement_verbatim"
+  },
+  {
+    "id": "G04",
+    "requirement": "道具用途与配方有来源",
+    "authority": "U08",
+    "evidence": "item_authority"
+  },
+  {
+    "id": "G05",
+    "requirement": "开局车卡与局内成长",
+    "authority": "U09",
+    "evidence": "character_tests"
+  },
+  {
+    "id": "G06",
+    "requirement": "属性/支援牌/掷骰真实结算",
+    "authority": "U06/U09",
+    "evidence": "card_tests"
+  },
+  {
+    "id": "G07",
+    "requirement": "地图反复变化与可达性",
+    "authority": "U13",
+    "evidence": "roguelike_tests"
+  },
+  {
+    "id": "G08",
+    "requirement": "每次行动动画和反馈",
+    "authority": "U03/U06",
+    "evidence": "native_ui"
+  },
+  {
+    "id": "G09",
+    "requirement": "21世纪中国高中视觉",
+    "authority": "U12",
+    "evidence": "visual_review"
+  },
+  {
+    "id": "G10",
+    "requirement": "全程走通及存档",
+    "authority": "U01",
+    "evidence": "full_routes"
+  },
+  {
+    "id": "G11",
+    "requirement": "原生独立运行",
+    "authority": "U01",
+    "evidence": "production_native"
+  },
+  {
+    "id": "G12",
+    "requirement": "原案未实现内容单独列示",
+    "authority": "U11",
+    "evidence": "coverage_ledger"
+  }
+]

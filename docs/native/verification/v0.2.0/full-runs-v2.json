@@ -1,0 +1,80 @@
+[
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 11,
+    "easy": false,
+    "echo_revisions": 30,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 101,
+    "turns": 378
+  },
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 20,
+    "easy": false,
+    "echo_revisions": 37,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 117,
+    "turns": 344
+  },
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 3,
+    "easy": false,
+    "echo_revisions": 16,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 503,
+    "turns": 252
+  },
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 9,
+    "easy": false,
+    "echo_revisions": 25,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 907,
+    "turns": 329
+  },
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 30,
+    "easy": true,
+    "echo_revisions": 52,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 1103,
+    "turns": 387
+  },
+  {
+    "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+    "deaths": 4,
+    "easy": true,
+    "echo_revisions": 24,
+    "echo_rooms": 1101,
+    "ending": "循环",
+    "level": 9,
+    "public_actions_only": true,
+    "relics": 8,
+    "seed": 2209,
+    "turns": 386
+  }
+]

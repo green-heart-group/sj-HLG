@@ -1,0 +1,24 @@
+
+running 19 tests
+test tests::character_budget_and_growth_are_enforced ... ok
+test tests::original_achievement_catalog_is_complete ... ok
+test tests::map_keeps_source_and_corrections ... ok
+test tests::all_six_ending_priorities_match_source ... ok
+test tests::illegal_movement_cannot_charge_or_teleport ... ok
+test tests::result_receipt_is_computed_from_actual_differences ... ok
+test tests::a_rejected_action_does_not_consume_support ... ok
+test tests::crafting_consumes_only_declared_materials ... ok
+test tests::support_and_preparation_change_the_actual_recorded_roll ... ok
+test tests::empty_hands_are_required_for_specimen ... ok
+test tests::tool_effects_and_consumption_apply_only_to_valid_targets ... ok
+test tests::entry_conditions_are_checked_on_teleport_cards ... ok
+test tests::crossing_zone_changes_departed_routes_without_stranding_player ... ok
+test tests::periodic_echo_rearrangement_and_mirror_return_use_real_actions ... ok
+test tests::death_preserves_plot_tokens_and_saved_ordinary_inventory ... ok
+test tests::support_hand_has_real_consumption_and_persistent_state ... ok
+test tests::changing_world_preserves_inventory_plot_and_current_room ... ok
+test tests::echo_seed_and_repeated_rearrangements_are_connected_and_reproducible ... ok
+test tests::complete_surface_echo_card_route_uses_only_public_actions ... ok
+
+test result: ok. 19 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 2.91s
+

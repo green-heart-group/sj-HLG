@@ -1,0 +1,1 @@
+libimm32.a is an unchanged copy of libwinapi_imm32.a from winapi-x86_64-pc-windows-gnu 0.4.0 (MIT/Apache-2.0). This alias supplies miniquad 0.4.11 IME imports when using the minimal Windows GNU Rust toolchain. The DLL is the Windows system IMM32.dll; no runtime DLL is bundled here.

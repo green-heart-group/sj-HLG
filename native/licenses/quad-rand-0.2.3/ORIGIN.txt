@@ -1,0 +1,5 @@
+quad-rand 0.2.3 declares MIT in its upstream Cargo manifest.
+Author credited by upstream: not-fl3 <not.fl3@gmail.com>.
+Repository: https://github.com/not-fl3/quad-rand
+Revision: e110e57ea050a48c6a04d821fa3963c3b6d0f9d0
+This crate release has no bundled license file. The MIT license text and original manifest are included.

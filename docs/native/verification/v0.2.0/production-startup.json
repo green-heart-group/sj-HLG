@@ -1,0 +1,11 @@
+{
+  "arch": "x86_64",
+  "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+  "frames_rendered": 30,
+  "gamma": 2.200000047683716,
+  "os": "windows",
+  "qa_feature": false,
+  "renderer": "native miniquad",
+  "result": "PASS",
+  "version": "0.2.0"
+}

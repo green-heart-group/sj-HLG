@@ -1,0 +1,135 @@
+[
+  {
+    "feature": "Rust 原生 Windows 程序与嵌入素材",
+    "status": "implemented",
+    "authority": "U01",
+    "evidence": "runtime.rs/pixel.rs; production-startup.json",
+    "limit": "仅验证本机 Windows x64；未声称在其他电脑完成兼容性验证。"
+  },
+  {
+    "feature": "表世界地名、坐标与图结构",
+    "status": "implemented",
+    "authority": "TXT:65-143;U07;U10",
+    "evidence": "data/map.json;表世界坐标.csv;地图连接依据.csv",
+    "limit": "68 节点逐项核对；普通正交邻接与 F 电梯一至五层是明确列示的图解释。"
+  },
+  {
+    "feature": "地图原稿的歧义与两处勘误",
+    "status": "interpretation",
+    "authority": "U10;TXT 原坐标",
+    "evidence": "raw_coordinate/correction 字段",
+    "limit": "实验室按 1/2/3/4 层；生物办公室改至 (2,3,3)，与化学办公室同坐标；问号地点保留。"
+  },
+  {
+    "feature": "里世界千级地图与重复重组",
+    "status": "implemented",
+    "authority": "U13;U02",
+    "evidence": "echo.rs;rules_tests.rs;native-verification-v2.json",
+    "limit": "16 区 ×64 复制房间 +77 剧情/原地点锚点；采用校园既有空间。跨区重组离开区段，每24个里世界回合重组当前区，穿镜重入及死亡重组全部，也可主动折返。"
+  },
+  {
+    "feature": "车卡、成长、属性+卡牌+掷骰",
+    "status": "implemented",
+    "authority": "U06;U08;U09;TXT:31-39",
+    "evidence": "character.rs/cards.rs/actions.rs",
+    "limit": "12 点四属性、10 张牌库3张手牌、升级与骰面换算属于用户明确授权的新设计，不声称为原策划数值。"
+  },
+  {
+    "feature": "回合制资源与休整换算",
+    "status": "interpretation",
+    "authority": "TXT:13-21;U08;U09;U13",
+    "evidence": "choices.rs/actions.rs/rules.rs",
+    "limit": "水+8生命、饼干+4体力、安全休整+4生命/+8理智、进入里世界-12理智、每里世界回合-1理智、补给12回合刷新，均为本章卡牌数值；MC 的秒、方块、饱食度不直接等于此数值。"
+  },
+  {
+    "feature": "每次行动动画、实际差值回执与下一步引导",
+    "status": "implemented",
+    "authority": "U03;U06",
+    "evidence": "runtime.rs/frontend.rs/report.rs;native-verification-v2.json",
+    "limit": "角色动作帧、出卡、骰子和场景转场共同呈现；并非逐事件制作独立电影。每次结果来自执行前后状态比较。"
+  },
+  {
+    "feature": "21世纪中国高中视觉",
+    "status": "implemented",
+    "authority": "U12",
+    "evidence": "visual-review.json;ASSET_PROVENANCE.txt;各素材生成提示",
+    "limit": "中国学生蓝白运动校服、现代校舍与实验用品；原案古老信物保留其器物属性。没有把像素或 Doom 当作硬性验收要求。"
+  },
+  {
+    "feature": "规则怪谈叙述与全文阅读",
+    "status": "implemented",
+    "authority": "U04;京工文集.docx风格参考;MC 原稿",
+    "evidence": "story.rs/items.json/quests.rs/documents.json",
+    "limit": "新叙述参考语气与校园细节；12份原始文献可分页阅读。并非已经复现MC所有台词、过场和全部文档。"
+  },
+  {
+    "feature": "47件道具用途、配方、携带条件及图标",
+    "status": "implemented",
+    "authority": "U05;U08;U09;items.json逐项MC/TXT出处",
+    "evidence": "道具逐项对照.csv;choices.rs/actions.rs",
+    "limit": "主线取得物与材料均有实际用途；普通道具的全部可选用法没有逐个完整通关测试。药品/货币商店等旧演示自拟机制已移除。 本章骨轮飞渡只开放在里世界明确的复制楼顶；TXT没有标出表世界屋顶，未把五层室内房间伪作屋顶。"
+  },
+  {
+    "feature": "八信物离校主线与表里循环",
+    "status": "implemented",
+    "authority": "MC:15-178;TXT:物品/移动/死亡;U01;U02;U08",
+    "evidence": "full-runs-v2.json",
+    "limit": "六个固定种子通过公开行动走通「循环」；测试驱动能查看图结构，不能据此声称真实玩家初见难度已验证。"
+  },
+  {
+    "feature": "原稿99项成就的名称/描述/条件/前置全文",
+    "status": "implemented",
+    "authority": "U04;U05;MC:2075-2784",
+    "evidence": "achievement_verbatim;成就逐项对照.csv",
+    "limit": "共101记录含2根节点。保留修订符号和占位原文，不将原稿未完成句子补写为原创。"
+  },
+  {
+    "feature": "成就全部触发链、树形界面和原叙事时机",
+    "status": "partial",
+    "authority": "TXT:42-50;MC:2075-2784;U05",
+    "evidence": "achievement_support.json;成就逐项对照.csv",
+    "limit": "51项非根成就接入触发，48项未开放；部分剧情压缩成卡牌事件，未复现全部前置剧情。普通成就页隐藏未解锁描述与彩蛋；独立原稿目录主动提示剧透。界面为分页列表，未完成节点树。"
+  },
+  {
+    "feature": "六种结局条件与优先级",
+    "status": "partial",
+    "authority": "MC:1993-2074;U08",
+    "evidence": "rules.rs ending();all_six_ending_priorities_match_source",
+    "limit": "六种判定有测试；仅「循环」具有本版完整通关回执。其他结局的可选支线尚未完成全程验收；不能把谓词测试等同六结局通关。"
+  },
+  {
+    "feature": "皂化试验的原稿内部冲突",
+    "status": "interpretation",
+    "authority": "MC:426-445;MC:700-707",
+    "evidence": "rules.rs rebirth();DESIGN_CONTRACT.md",
+    "limit": "采用详细条款 d7=7 出细研香皂，其余精制肥皂；保留后文首次死亡刷出香皂的冲突说明，没有暗改为必得。"
+  },
+  {
+    "feature": "完整NPC剧情、九层实验楼、豢养区与支线",
+    "status": "not_implemented",
+    "authority": "MC 全文;TXT 地图优先;U07;U11",
+    "evidence": "entry_reason(captive);coverage.json",
+    "limit": "豢养区入口、LQ与其完整剧情、全部NPC技能阶段、原MC九层场景、全套隐藏纸条与彩蛋尚未完成。地图依TXT展开；未把省略支线改成自创剧情。"
+  },
+  {
+    "feature": "Minecraft 专属表现及机制",
+    "status": "not_implemented",
+    "authority": "MC 策划;U01原生改编",
+    "evidence": "DESIGN_CONTRACT.md",
+    "limit": "原Minecraft方块建筑、红石、命令系统、多人机制、全套音效和语音未移植；本章只实现已列出的原生卡牌与探索部分。"
+  },
+  {
+    "feature": "原稿场景/人物收录界面、丢弃物品、所有状态场",
+    "status": "not_implemented",
+    "authority": "TXT:25,11;MC:2785-2874",
+    "evidence": "coverage.json",
+    "limit": "没有独立人物图鉴、完整场景图鉴、丢弃卡、命场/电场强度模拟；不影响已验收的八信物主线。"
+  },
+  {
+    "feature": "固定源材料与可复核构建证据",
+    "status": "implemented",
+    "authority": "U11",
+    "evidence": "authority.json;verify_conformance.py;GATE_REPORT.json",
+    "limit": "自动检查字段、哈希与实测回执；语义相符还依赖列示的逐项审查，不把自动gate声称为对整部原案的形式化证明。"
+  }
+]

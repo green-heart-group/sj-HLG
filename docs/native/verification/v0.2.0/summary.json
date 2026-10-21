@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "scope_gate": "PASS",
+  "original_plan_coverage": "PARTIAL_WITH_DECLARED_GAPS",
+  "core_tests": 19,
+  "native_ui_checks": 34,
+  "complete_loop_runs": 6,
+  "full_run_endings": [
+    "循环"
+  ],
+  "surface_nodes": 68,
+  "echo_nodes": 1101,
+  "echo_regions": 16,
+  "items": 47,
+  "achievement_catalog": 99,
+  "wired_achievements": 51,
+  "unopened_achievements": 48,
+  "build_fingerprint": "fec879e749c450c2d4eac066037c9a08304551313814b94aaa0fbdda83fbed97",
+  "binary_sha256": "655b809811f9f78042f878c6534270eb89f7180f12ba4701a06d91cda54c7c9d",
+  "production_qa_feature": false,
+  "tested_toolchain": "rustc 1.99.1 (58cf8f9c3 2026-10-13)",
+  "limits": "Automated public-action routes and native frame/input checks; other endings have predicate checks only. No independent player study."
+}
